@@ -1,0 +1,4 @@
+node_modules/**
+plopTemplates/**
+plopTemplates/modules/model.hbs
+**/plopTemplates/**/*

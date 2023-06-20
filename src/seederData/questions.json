@@ -1,0 +1,249 @@
+[
+  {
+    "description": "Are you seeking treatment for improved sexual activity?",
+    "type": "radio",
+    "step": 1,
+    "options": [{ "description": "Yes" }, { "description": "No" }]
+  },
+  {
+    "description": "Have you had you vital tested by medical practitioner in the last 3 years? This include weight blood pressure and heart rate?",
+    "type": "radio",
+    "step": 2,
+    "options": [{ "description": "Yes" }, { "description": "No" }]
+  },
+  {
+    "description": "What is your blood pressure on an average day (even when taking medication)?",
+    "type": "radio",
+    "step": 3,
+    "options": [
+      {
+        "description": "Normal ( less than 120 systolic and less than 80 diastolic )"
+      },
+      {
+        "description": "Elevated (120 to 129 systolic and less than 80 diastolic )"
+      },
+      {
+        "description": "High (130-160 systolic and between 80-100 diastolic)"
+      },
+      {
+        "description": "Uncontrolled (above 160 systolic OR higher than 100 diastolic )"
+      },
+      {
+        "description": "Controlled with Medicine"
+      }
+    ]
+  },
+  {
+    "description": "List medication allergies.",
+    "type": "text",
+    "step": 4,
+    "options": []
+  },
+  {
+    "description": "List all prescription medications which you take. (Disclaimer: It is very important that you list the name of each medication so your physician can make sure there will not be any drug interactions).",
+    "type": "text",
+    "step": 5,
+    "options": []
+  },
+  {
+    "description": "Are you currently taking any medications for erectile dysfunction or pulmonary hypertension? (Example: tadalafil, Cialis, sildenafil, Viagra, Revatio, Levitra)",
+
+    "type": "radio",
+    "step": 6,
+    "options": [
+      {
+        "description": "Yes"
+      },
+      {
+        "description": "No"
+      }
+    ]
+  },
+  {
+    "description": "What are those medication for ED you are taking ",
+    "type": "text",
+    "step": 6,
+    "options": []
+  },
+  {
+    "description": "Please list all other medical problems",
+    "type": "text",
+    "step": 7,
+    "options": []
+  },
+  {
+    "description": "Have you ever had a cardiac attack? cardiac surgery?",
+    "type": "radio",
+    "step": 8,
+    "options": [
+      {
+        "description": "Yes"
+      },
+      {
+        "description": "No"
+      }
+    ]
+  },
+  {
+    "description": "Do you have any heart/cardiac conditions? Arrhythmias?",
+    "type": "radio",
+    "step": 9,
+    "options": [
+      {
+        "description": "Yes"
+      },
+      {
+        "description": "No"
+      }
+    ]
+  },
+  {
+    "description": "Please Explain, your heart/cardiac conditions.",
+    "type": "text",
+    "step": 9,
+    "options": []
+  },
+  {
+    "description": "Do you have any heart/cardiac conditions? Arrhythmias?",
+    "type": "radio",
+    "step": 10,
+    "options": [
+      {
+        "description": "Nitroglycerin in any form - as a spray, tablet, patch or ointment. Deponit, Minitran, Nitrek, Nitro-Bid, Nircot, Nitrodisc, Niro-Dur, Nitrograd, Nitroglyn, Nitro!, Nitrolingua, Nitrolingual, NitroMist, Nitrong, Nitronol, -Nitro-Par, Nitroquick, Nitrostat, Nitrotab, Nitro-Time, Transdermal-Nitro, Medicine containing nitrates"
+      },
+      {
+        "description": "Isosorbide Mononitrate or Isosorbide Dinitrate (Dilatrate, Dilatrate-SR, Imdur, Ismo, Isordil, Monoket, Sorbitrate)"
+      },
+      {
+        "description": "Adempas (Riociquat), which is used to treat pulmonary hypertension"
+      }
+    ]
+  },
+  {
+    "description": "Are you currently using any of the following recreational drugs?",
+    "type": "radio",
+    "step": 11,
+    "options": [
+      {
+        "description": "Poppers or Rush"
+      },
+      {
+        "description": "Amyl Nitrate or Butyl Nitrate"
+      },
+      {
+        "description": "Methamphetamine (meth, speed, crystal) "
+      },
+      {
+        "description": "Cocaine "
+      }
+    ]
+  },
+  {
+    "description": "Select any of the following medical issues that apply? ",
+    "type": "radio",
+    "step": 12,
+    "options": [
+      {
+        "description": "I have been told that I am not healthy enough to have sex "
+      },
+      {
+        "description": "Within the last year I have experienced chest pain AND/OR significant shortness of breath while undergoing exercise "
+      },
+      {
+        "description": "I have experienced unexplained blurry vision or headaches "
+      },
+      {
+        "description": "I am unable to walk 1 mile on a flat surface within 20 minutes "
+      },
+      {
+        "description": "I have been diagnosed with low blood pressure "
+      }
+    ]
+  },
+  {
+    "description": "Over the past 6 months, how do you rate your confidence that you could keep an erection?",
+    "type": "radio",
+    "step": 13,
+    "options": [
+      {
+        "description": "No confidence "
+      },
+      {
+        "description": "Fair"
+      },
+      {
+        "description": "Very Confident "
+      }
+    ]
+  },
+  {
+    "description": "Over the past 6 months, when you had erections with sexual stimulation, how often were your erections hard enough for penetration (entering your partner)?",
+    "type": "radio",
+    "step": 14,
+    "options": [
+      {
+        "description": "No confidence "
+      },
+      {
+        "description": "Fair"
+      },
+      {
+        "description": "Very Confident "
+      }
+    ]
+  },
+  {
+    "description": "Over the past 6 months, during sexual intercourse, how difficult was it to maintain your erection to completion of intercourse?",
+    "type": "radio",
+    "step": 15,
+    "options": [
+      {
+        "description": "Not difficult"
+      },
+      {
+        "description": "Moderately difficult"
+      },
+      {
+        "description": "Very difficult"
+      }
+    ]
+  },
+  {
+    "description": "Over the past 6 months, when you attempted sexual intercourse, how often was it satisfactory for you? ",
+    "type": "radio",
+    "step": 16,
+    "options": [
+      {
+        "description": "Never"
+      },
+      {
+        "description": "Rare"
+      },
+      {
+        "description": "Sometimes"
+      },
+      {
+        "description": "Often"
+      }
+    ]
+  },
+  {
+    "description": "Is there anything else you would like to tell the doctor? ",
+    "type": "radio",
+    "step": 17,
+    "options": [
+      {
+        "description": "Yes"
+      },
+      {
+        "description": "No"
+      }
+    ]
+  },
+  {
+    "description": "Please write down additional notes",
+    "type": "text",
+    "step": 17,
+    "options": []
+  }
+]
